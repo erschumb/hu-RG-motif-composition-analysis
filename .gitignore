@@ -1,0 +1,10 @@
+# Ignore VS Code or Python junk
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+
+data/external/PhasePred/human_reviewed.json
+
+annotation_datasets/
