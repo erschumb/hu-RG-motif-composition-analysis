@@ -30,6 +30,9 @@ INFORMATION WILL BE ADDED AFTER REVIEW
 ```
 ## Data Flow
 
+The following diagram shows the data acquisition, processing and organization required for the project and required as prerequisites for running the analysis scripts.
+This summarizes the work done in `0_preprocessing_of_proteome.ipynb`.
+
 ![Dataflow Diagram](docs/data_flow_preprocessing.jpg)
 
 ## Requirements and Installation
