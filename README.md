@@ -30,7 +30,7 @@ INFORMATION WILL BE ADDED AFTER REVIEW
 ```
 ## Data Flow
 
-![Dataflow Diagram](docs/Picture1.png)
+![Dataflow Diagram](docs/data_flow_preprocessing.jpg)
 
 ## Requirements and Installation
 
@@ -40,7 +40,8 @@ All dependencies for this project are listed in the provided `environment.yml` f
 
 The `human_reviewed.json` from PhasePred containing information on the phase separation propensity of all human proteins has not been included in this repo, due to its large file size.
 The most recent version can be downloaded here: http://predict.phasep.pro/static/phasepred/database/human_reviewed.zip
-The version used for this dataset can be requested if necessart, see Contact.
+The version used for this was the file from Feb, 11th, 2022, downloaded on June, 13th, 2023 and can be requested if necessary, see Contact.
+At the time of writing (July, 1st, 2025) this is still the latest release.
 
 ### Recommended (Using Conda)
 
