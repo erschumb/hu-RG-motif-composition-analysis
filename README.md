@@ -23,6 +23,7 @@ INFORMATION WILL BE ADDED AFTER REVIEW
 ├── 2_IDR_analyses.ipynb                 # Scripts for statistical analysis of IDR-related properties
 ├── 3_domain_analyses.ipynb              # Scripts for statistical analysis of domain-focused analysis
 ├── 4_AA_analyses.ipynb                  # Scripts for statistical analysis of detailed amino acid composition
+├── feature_annotations.py               # Script for API handling and data collection
 ├── LICENSE               # License file
 ├── environment.yml       # Necessary dependencies for project
 └── README.md             # This file
@@ -34,6 +35,12 @@ INFORMATION WILL BE ADDED AFTER REVIEW
 ## Requirements and Installation
 
 All dependencies for this project are listed in the provided `environment.yml` file.
+
+### Missing file (due to file size)
+
+The `human_reviewed.json` from PhasePred containing information on the phase separation propensity of all human proteins has not been included in this repo, due to its large file size.
+The most recent version can be downloaded here: http://predict.phasep.pro/static/phasepred/database/human_reviewed.zip
+The version used for this dataset can be requested if necessart, see Contact.
 
 ### Recommended (Using Conda)
 
