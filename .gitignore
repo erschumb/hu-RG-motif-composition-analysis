@@ -7,4 +7,4 @@ __pycache__/
 
 data/external/PhasePred/human_reviewed.json
 
-annotation_datasets/
+data/processed/annotation_datasets/*.csv

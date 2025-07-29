@@ -1,0 +1,52 @@
+failed_protein,error
+O43240,invalid literal for int() with base 10: '~'
+O75444,string index out of range
+P04275,invalid literal for int() with base 10: '~'
+Q9UMS6,string index out of range
+Q9UMS6,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q96JN0,string index out of range
+Q92843,string index out of range
+Q92843,string index out of range
+Q92843,string index out of range
+O95954,string index out of range
+Q2V2M9,string index out of range
+Q2V2M9,string index out of range
+Q6RUI8,404 Client Error: Not Found for url: https://www.ebi.ac.uk/proteins/api/features/Q6RUI8?categories=PTM
+Q8TAB7,404 Client Error: Not Found for url: https://www.ebi.ac.uk/proteins/api/features/Q8TAB7?categories=PTM
+P0C843,404 Client Error: Not Found for url: https://www.ebi.ac.uk/proteins/api/features/P0C843?categories=PTM
+A0A087WTH5,404 Client Error: Not Found for url: https://www.ebi.ac.uk/proteins/api/features/A0A087WTH5?categories=PTM
+Q6IE36,404 Client Error: Not Found for url: https://www.ebi.ac.uk/proteins/api/features/Q6IE36?categories=PTM
+Q9HC84,invalid literal for int() with base 10: '~'
+Q07866,string index out of range
+Q07866,string index out of range
+Q07866,string index out of range
+Q07866,string index out of range
+Q07866,string index out of range
+Q07866,string index out of range
+Q96EE3,string index out of range
+Q13491,string index out of range
+Q9Y6M7,string index out of range
+Q9Y6M7,string index out of range
+Q9Y6M7,string index out of range
+Q9Y6M7,string index out of range
+Q9Y6M7,string index out of range
+Q9Y6M7,string index out of range
+Q3LFD5,404 Client Error: Not Found for url: https://www.ebi.ac.uk/proteins/api/features/Q3LFD5?categories=PTM
+Q08174,string index out of range
+Q86XI8,string index out of range
+P56181,string index out of range
+P56181,string index out of range
+P56181,string index out of range
+B7Z3J9,404 Client Error: Not Found for url: https://www.ebi.ac.uk/proteins/api/features/B7Z3J9?categories=PTM
+Q92896,string index out of range
+Q92896,string index out of range
+Q6W4X9,invalid literal for int() with base 10: '~'
