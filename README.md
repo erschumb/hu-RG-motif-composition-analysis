@@ -27,6 +27,10 @@ INFORMATION WILL BE ADDED AFTER REVIEW
 ├── environment.yml       # Necessary dependencies for project
 └── README.md             # This file
 ```
+## Data Flow
+
+![Dataflow Diagram](docs/Picture1.png)
+
 ## Requirements and Installation
 
 All dependencies for this project are listed in the provided `environment.yml` file.
