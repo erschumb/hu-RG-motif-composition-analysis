@@ -9,7 +9,7 @@ submitted to BMC Genomics
 ## Citation
 
 If you use this repository, please cite our work:
-INFORMATION WILL BE ADDED AFTER REVIEW
+Schumbera, E., Dormann, D., Walther, A. et al. Computational investigation of the sequence context of arginine/glycine-rich motifs in the human proteome. BMC Genomics 26, 883 (2025). https://doi.org/10.1186/s12864-025-12132-5
 
 ## Repository structure
 ```
